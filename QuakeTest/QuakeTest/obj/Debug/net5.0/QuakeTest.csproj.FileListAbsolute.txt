@@ -1,0 +1,16 @@
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\bin\Debug\net5.0\QuakeTest.exe
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\bin\Debug\net5.0\QuakeTest.deps.json
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\bin\Debug\net5.0\QuakeTest.runtimeconfig.json
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\bin\Debug\net5.0\QuakeTest.runtimeconfig.dev.json
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\bin\Debug\net5.0\QuakeTest.dll
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\bin\Debug\net5.0\ref\QuakeTest.dll
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\bin\Debug\net5.0\QuakeTest.pdb
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.csproj.AssemblyReference.cache
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.AssemblyInfoInputs.cache
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.AssemblyInfo.cs
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.csproj.CoreCompileInputs.cache
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.dll
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\ref\QuakeTest.dll
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.pdb
+D:\Pedro\Teste Prático Quake\QuakeTest\QuakeTest\obj\Debug\net5.0\QuakeTest.genruntimeconfig.cache
